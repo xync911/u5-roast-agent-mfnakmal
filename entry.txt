@@ -1,0 +1,1 @@
+My agent writes code like it is paid by the line and debugs like it is paid by the hour — which explains both the bill and the bugs.
